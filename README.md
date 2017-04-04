@@ -1,0 +1,2 @@
+# ToDo-App-Hybrida
+La mayoria de las aplicaciones moviles hybridas hechas con tecnologias basadas en HTML5 (Cordova, Ionic) en general han dejado una muy mala impresión a causa de falta de optimizacion y apalancamiento de nuevas tecnicas para mejorar el rendimiento de las web apps. En esta aplicacion, se demostrara que se pueden crear apps moviles hybridas con HTML5 con animaciones, experiencia de usuario, desempeño, y fluidez comparable a nativo.
